@@ -4,21 +4,29 @@
 
 - Offensive Team vs Defensive Team </b>
   - [Red Team vs Blue Team](https://github.com/ChrisMee1/Offensive-Team-Red-vs-Defensive-Team-Blue-/blob/main/Red%20Team%20vs%20Blue%20Team.pdf)
+  - [Blue/Red Forensic Analysis](https://github.com/ChrisMee1/Blue-Red-Forensic/blob/main/Blue-Red-Forensic.pdf)
 - SIEM Porject </b>
   - [ELK Stack](https://github.com/ChrisMee1/Elk_Project)
-- Blue Team/Red Team forensic analyis (https://github.com/ChrisMee1/Blue-Red-Forensic/blob/main/Blue-Red-Forensic.pdf)
 
 - Certifications </b>
   
   [Cybersecurity Certificate](https://www.credly.com/badges/c3f2985d-60cb-45cb-b02a-e7fda1f6a8ab?source=linked_in_profile)
 
 <h2>Experience</h2>
-- [Active Directory]
-- [Powershell]
-- [Linux Fundemntals](
-- [Networking fundmentals]
-- [Cloud Security]
 - [Pentesting]
+
+  - [Showdan/regon-ng/domain-discovery](https://github.com/ChrisMee1/Penetration-Testing/blob/main/Pentest%201.pdf)
+  - [Icecast-exploit](https://github.com/ChrisMee1/Penetration-Testing/blob/main/Pentesting%202.pdf)
+
+[Active Directory]
+
+[Powershell]
+
+[Linux Fundemntals]
+
+[Networking fundmentals]
+
+[Cloud Security]
 
 <h2>Perusring</h2>
 - Secuiity+
