@@ -21,7 +21,7 @@
 - [Pentesting]
 
 <h2>Perusring</h2>
-- Secuiity+ certificate
+- Secuiity+
 - Azure Cloud fundmentals
 - Google Cloud fundmentals
 
