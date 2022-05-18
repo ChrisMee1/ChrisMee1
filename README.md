@@ -6,7 +6,7 @@
   - [Red Team vs Blue Team](https://github.com/ChrisMee1/Offensive-Team-Red-vs-Defensive-Team-Blue-/blob/main/Red%20Team%20vs%20Blue%20Team.pdf)
 - SIEM Porject </b>
   - [ELK Stack](https://github.com/ChrisMee1/Elk_Project)
-- Blue Team/Red Team Forensic analyis (https://github.com/ChrisMee1/Blue-Red-Forensic/blob/main/Blue-Red-Forensic.pdf)
+- Blue Team/Red Team forensic analyis (https://github.com/ChrisMee1/Blue-Red-Forensic/blob/main/Blue-Red-Forensic.pdf)
 
 - Certifications </b>
   
