@@ -3,9 +3,10 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - Offensive Team vs Defensive Team </b>
-  - [Red Team vs Blue Team](https://github.com/ChrisMee1/Offensive-Team-Red-vs-Defensive-Team-Blue-)
-- <b>SIEM Porject</b>
+  - [Red Team vs Blue Team](https://github.com/ChrisMee1/Offensive-Team-Red-vs-Defensive-Team-Blue-/blob/main/Red%20Team%20vs%20Blue%20Team.pdf)
+- SIEM Porject </b>
   - [ELK Stack](https://github.com/ChrisMee1/Elk_Project)
+- Blue Team/Red Team Forensic analyis (https://github.com/ChrisMee1/Blue-Red-Forensic/blob/main/Blue-Red-Forensic.pdf)
 
 - Certifications </b>
   
@@ -20,6 +21,7 @@
 - [Pentesting]
 
 <h2>Perusring</h2>
+- Secuiity+ certificate
 - Azure Cloud fundmentals
 - Google Cloud fundmentals
 
