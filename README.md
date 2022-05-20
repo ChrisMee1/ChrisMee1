@@ -22,7 +22,7 @@
 
 [Wireshark]
   
-   -[Wireshark fundmentials]
+   -[Wireshark fundmentals]
 
 [Powershell]
 
